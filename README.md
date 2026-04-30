@@ -1,3 +1,5 @@
+Note on Restricted Content: Due to the proprietary nature of our industry-sponsored projects, screenshots and detailed visual documentation of specific workflows are restricted. The visualizations shared here represent approved or non-confidential data.
+
 # wind-solar-highway-charging
 A hybrid wind and solar-powered lighting and charging system for roads and highways that involves renewable energy integration, sustainable infrastructure, and hybrid power system design.
 
