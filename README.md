@@ -99,8 +99,7 @@ ANSYS :  For structural or load analysis.
 
 ## Authors
 
-- [Riya Vasan]  
-
+Riya Vasan, Noel, Divya 
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
